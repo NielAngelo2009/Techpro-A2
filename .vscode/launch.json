@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SEATWORK11",
+            "request": "launch",
+            "mainClass": "SEATWORK11",
+            "projectName": "Techpro-A2_77dccc9"
+        },
+        {
+            "type": "java",
+            "name": "SEATWORK11PART2",
+            "request": "launch",
+            "mainClass": "SEATWORK11PART2",
+            "projectName": "Techpro-A2_77dccc9"
+        },
+        {
+            "type": "java",
+            "name": "SEATWORK5",
+            "request": "launch",
+            "mainClass": "SEATWORK5",
+            "projectName": "Techpro-A2_77dccc9"
+        },
+        {
+            "type": "java",
+            "name": "SEATWORK6",
+            "request": "launch",
+            "mainClass": "SEATWORK6",
+            "projectName": "Techpro-A2_77dccc9"
+        },
+        {
+            "type": "java",
+            "name": "SeatworkSeven",
+            "request": "launch",
+            "mainClass": "SeatworkSeven",
+            "projectName": "Techpro-A2_77dccc9"
+        }
+    ]
+}
