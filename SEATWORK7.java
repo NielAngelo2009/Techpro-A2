@@ -1,4 +1,4 @@
-public class SeatworkSeven {
+public class SEATWORK7 {
             public static void main(String args[]) {
                     char grade = 'C';
                             switch (grade) {
