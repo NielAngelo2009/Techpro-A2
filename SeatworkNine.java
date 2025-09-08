@@ -1,4 +1,4 @@
-public class SEATWORK9 {
+public class SE {
         public static void main(String args[]) {
                 int[] numbers = {10, 20, 30, 40, 50};
                         int index = 0;
